@@ -1,4 +1,4 @@
-# DDD_FINANCEIRO
+# FINANCEIRO DDD
 Sistema Financeiro Pessoal desenvolvido usando Arquitetura DDD.
 
 Para executar o projeto basta criar o banco de dados Que se encontra na pasta Data do projeto WebFinanceiro
