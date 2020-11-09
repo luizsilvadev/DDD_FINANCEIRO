@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+.vs/Financeiro/DesignTimeBuild/.dtbcache.v2
+.vs/Financeiro/v16/.suo
