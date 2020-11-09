@@ -1,0 +1,53 @@
+﻿
+
+@model Entities.Entidades.Categoria
+
+<div class="card">
+    <div class="card-header card-header-primary">
+        <h4 class="card-title ">Contatos e Informações</h4>
+        <p class="card-category">
+            <i class="material-icons">class</i>
+            Contatos e Informações
+        </p>
+    </div>
+
+    <div class="card-body">
+        <form>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="bmd-label-floating"> Sistema de Gerenciamento Financeiro Pessoal.</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="bmd-label-floating"> Desenvolvido por Psyber.</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="bmd-label-floating"> Email para Contato: </label><a target="_blank" href="psyber@psyber.com.br">psyber@psyber.com.br</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <a asp-controller="Home" asp-action="Index"> Voltar</a>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script src="~/js/contato.js"></script>

@@ -1,0 +1,9 @@
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

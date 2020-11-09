@@ -1,0 +1,14 @@
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Applications.deps.json
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Applications.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Applications.pdb
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Domain.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Entities.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.csprojAssemblyReference.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.AssemblyInfoInputs.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.AssemblyInfo.cs
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.csproj.CoreCompileInputs.cache
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.csproj.CopyComplete
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.dll
+C:\desenvolvimento\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp3.1\Applications.pdb

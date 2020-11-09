@@ -1,0 +1,14 @@
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Infra.deps.json
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Infra.dll
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Infra.pdb
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Domain.dll
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Entities.dll
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Domain.pdb
+D:\DDD_FINANCEIRO\Infra\bin\Release\netcoreapp2.2\Entities.pdb
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.AssemblyInfo.cs
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.csproj.CopyComplete
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.dll
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.pdb
+D:\DDD_FINANCEIRO\Infra\obj\Release\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache

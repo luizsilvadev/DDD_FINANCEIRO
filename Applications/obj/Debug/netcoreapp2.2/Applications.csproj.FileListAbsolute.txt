@@ -1,0 +1,14 @@
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Applications.deps.json
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Applications.dll
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Applications.pdb
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Domain.dll
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Entities.dll
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\DDD_FINANCEIRO\Applications\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.csprojAssemblyReference.cache
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.AssemblyInfoInputs.cache
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.AssemblyInfo.cs
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.csproj.CopyComplete
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.dll
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.pdb
+D:\DDD_FINANCEIRO\Applications\obj\Debug\netcoreapp2.2\Applications.csproj.CoreCompileInputs.cache
